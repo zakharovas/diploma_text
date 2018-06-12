@@ -1,0 +1,101 @@
+\begin{thebibliography}{10}
+
+\bibitem{eskina}
+Еськова Н.А.
+\newblock {\em Словарь трудностей русского языка.
+  Ударение. Грамматические формы.}
+\newblock М.: Языки славянской культуры, 2014.
+
+\bibitem{church}
+Kenneth Church.
+\newblock Stress assignment in letter to sound rules for speech synthesis.
+\newblock {\em Association for Computational Linguistics, 246–253}, 1985.
+
+\bibitem{williams}
+Briony Williams.
+\newblock Word stress assignment in a text-to-speech synthesis system for
+  british english.
+\newblock {\em Computer Speech and Language, 2:235–272}, 1987.
+
+\bibitem{halle}
+Morris Halle.
+\newblock {\em On stress and accent in IndoEuropean.}
+\newblock Language, 1997.
+
+\bibitem{hall}
+Keith Hall and Richard Sproat.
+\newblock Russian stress prediction using maximum entropy ranking.
+\newblock {\em Proceedings of the 2013 Conference on Empirical Methods in
+  Natural Language Processing, 879–883, Seattle, Washington, USA}, 2013.
+
+\bibitem{dou}
+Qing Dou, Shane Bergsma, Sittichai Jiampojamarn, and Grzegorz Kondrak.
+\newblock A ranking approach to stress prediction for letter-to-phoneme
+  conversion.
+\newblock {\em Proceedings of the Joint Conference of the 47th Annual Meeting
+  of the ACL and the 4th International Joint Conference on Natural Language
+  Processing of the AFNLP, 118–126, Suntec, Singapore}, 2009.
+
+\bibitem{collins}
+Michael Collins and Terry Koo.
+\newblock Discriminative reranking for natural language parsing.
+\newblock {\em Computational Linguistics, 31:25–69}, 2005.
+
+\bibitem{zaliz}
+Зализняк~А. А.
+\newblock {\em Грамматический словарь русского
+  языка.}
+\newblock М.: Русский язык, 1977.
+
+\bibitem{reynolds}
+Robert Reynolds and Francis Tyers.
+\newblock Automatic word stress annotation of russian unrestricted text.
+\newblock {\em Proceedings of the 20th Nordic Conference of Computational
+  Linguistics (NODALIDA 2015). Linkoping University Electronic Press, Sweden,
+  Vilnius, Lithuania}, 2015.
+
+\bibitem{koskenniemi}
+Kimmo Koskenniemi.
+\newblock Two-level morphology: A general computational model for word-form
+  recognition and production.
+\newblock {\em Technical report, University of Helsinki, Department of General
+  Linguistics}, 1983.
+
+\bibitem{karttunen}
+Kenneth~R. Beesley and Lauri Karttunen.
+\newblock {\em Finite State Morphology: Xerox tools and techniques.}
+\newblock CSLI Publications, Stanford, 2003.
+
+\bibitem{karlsson}
+Fred Karlsson.
+\newblock Constraint grammar as a framework for parsing running text.
+\newblock {\em Proceedings of the 13th Conference on Computational Linguistics
+  (COLING), 3:168–173, Helsinki, Finland}, 1983.
+
+\bibitem{lavitskaya}
+Yulia Lavitskaya and Baris Kabak.
+\newblock {\em Phonological default in the lexical stress system of Russian:
+  Evidence from noun declension.}
+\newblock Lingua, 2014.
+
+\bibitem{ponomareva}
+Maria Ponomareva, Kirill Milintsevich, Ekaterina Chernyak, and Anatoly
+  Starostin.
+\newblock Automated word stress detection in russian.
+\newblock {\em Proceedings of the First Workshop on Subword and Character Level
+  Models in NLP, 31–35, Copenhagen, Denmark}, 2017.
+
+\bibitem{grishina}
+Гришина~Е. А.
+\newblock {\em Корпус «История русского
+  ударения» // Национальный корпус русского
+  языка: 2006—2008. Новые результаты и
+  перспективы.}
+\newblock СПб.: Нестор-История, 2009.
+
+\bibitem{schizo}
+Неизв.
+\newblock Шизофазия.
+\newblock https://ru.wikipedia.org/wiki/Шизофазия, 1962.
+
+\end{thebibliography}
