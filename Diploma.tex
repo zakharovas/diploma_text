@@ -335,8 +335,142 @@
 
 Для разных экспериментов использовался грамматический словарь русского языка Зализняка,\cite{zaliz} и база данных акцентологической разметки в составе национального корпуса русского языка\cite{grishina} 
 
+Авторами были проведены следующие эксперименты
+\begin{enumerate}
+	\item \textbf{Обучение и предсказание на основе словаря.} Словарь Зализняка был разделен на обучающую и тестовую выборки в соотношении 2:1. Результаты этого эксперимента представлены в \cref{table:dict_res}.
+	\item \textbf{Обучение и предсказание на основе акцентологического корпуса.} С корпусом было проведено два эксперимента, в первом в качестве фразы использовалось только само слово. Во втором же, к нему были дописаны три последние буквы из слова, которое идет перед ним в предложении, если такое было. Сравнительные результаты экспериментов представлены в \cref{table:base_text}. Основная разница между моделями с контекстом и без него может быть видна только на омографах. Результаты применения на них представлены в \cref{table:base_homo}. Как видно из результатов модель успешно использует контекст для расстовки ударения в омографах во многих случаях.
+\end{enumerate}
 
+\begin{table}[H]
+	\begin{small}
+		\begin{center}
+			\begin{tabular}{|c|c|c|c|}
+				\hline
+				Экспериимент & Accuracy score & Доля Ошибок & Доля пропущенных слов\\
+				\hline
+				\multicolumn{4}{|c|}{Без грамматики} \\			
+				\hline
+				bare & 30.43 & 0.17 & 69.39 \\
+				\hline
+				safe & 90.07 & 0.49 & 9.44 \\
+				\hline
+				randReading &94.34 &3.36 &2.30 \\
+				\hline
+				freqReading &95.53 &2.59& 1.88 \\
+				\hline
+				randReading+guessSyll &94.99 &4.05 &0.96 \\
+				\hline
+				freqReading+guessSyll & 95.83 &3.46 &0.72\\
+				\hline
+				\multicolumn{4}{|c|}{С грамматикой} \\			
+				\hline
+				bare &45.78 & 0.44 &53.78\\
+				\hline
+				safe &93.21& 0.74 &6.058 \\
+				\hline
+				randReading &95.50 &2.59 &1.90 \\
+				\hline
+				freqReading &95.73 &2.40 &1.88 \\
+				\hline
+				randReading+guessSyll &95.92 &3.33 &0.74 \\
+				\hline
+				freqReading+guessSyll &96.15 &3.14 &0.72 \\
+				\hline
+				
+			\end{tabular}
+		\end{center}
+	\end{small}
+	\caption{Результаты применения нейросетевой моделе на словаре Зализняка.}
+	\label{table:dict_res}
+\end{table}
 
+\begin{table}[H]
+	\begin{small}
+		\begin{center}
+			\begin{tabular}{|c|c|c|c|}
+				\hline
+				Экспериимент & Accuracy score & Доля Ошибок & Доля пропущенных слов\\
+				\hline
+				\multicolumn{4}{|c|}{Без грамматики} \\			
+				\hline
+				bare & 30.43 & 0.17 & 69.39 \\
+				\hline
+				safe & 90.07 & 0.49 & 9.44 \\
+				\hline
+				randReading &94.34 &3.36 &2.30 \\
+				\hline
+				freqReading &95.53 &2.59& 1.88 \\
+				\hline
+				randReading+guessSyll &94.99 &4.05 &0.96 \\
+				\hline
+				freqReading+guessSyll & 95.83 &3.46 &0.72\\
+				\hline
+				\multicolumn{4}{|c|}{С грамматикой} \\			
+				\hline
+				bare &45.78 & 0.44 &53.78\\
+				\hline
+				safe &93.21& 0.74 &6.058 \\
+				\hline
+				randReading &95.50 &2.59 &1.90 \\
+				\hline
+				freqReading &95.73 &2.40 &1.88 \\
+				\hline
+				randReading+guessSyll &95.92 &3.33 &0.74 \\
+				\hline
+				freqReading+guessSyll &96.15 &3.14 &0.72 \\
+				\hline
+				
+			\end{tabular}
+		\end{center}
+	\end{small}
+	\caption{Результаты применения нейросетевой моделе на словаре Зализняка.}
+	\label{table:base_text}
+\end{table}
+
+\begin{table}[H]
+	\begin{small}
+		\begin{center}
+			\begin{tabular}{|c|c|c|c|}
+				\hline
+				Экспериимент & Accuracy score & Доля Ошибок & Доля пропущенных слов\\
+				\hline
+				\multicolumn{4}{|c|}{Без грамматики} \\			
+				\hline
+				bare & 30.43 & 0.17 & 69.39 \\
+				\hline
+				safe & 90.07 & 0.49 & 9.44 \\
+				\hline
+				randReading &94.34 &3.36 &2.30 \\
+				\hline
+				freqReading &95.53 &2.59& 1.88 \\
+				\hline
+				randReading+guessSyll &94.99 &4.05 &0.96 \\
+				\hline
+				freqReading+guessSyll & 95.83 &3.46 &0.72\\
+				\hline
+				\multicolumn{4}{|c|}{С грамматикой} \\			
+				\hline
+				bare &45.78 & 0.44 &53.78\\
+				\hline
+				safe &93.21& 0.74 &6.058 \\
+				\hline
+				randReading &95.50 &2.59 &1.90 \\
+				\hline
+				freqReading &95.73 &2.40 &1.88 \\
+				\hline
+				randReading+guessSyll &95.92 &3.33 &0.74 \\
+				\hline
+				freqReading+guessSyll &96.15 &3.14 &0.72 \\
+				\hline
+				
+			\end{tabular}
+		\end{center}
+	\end{small}
+	\caption{Результаты применения нейросетевой моделе на омографах.}
+	\label{table:base_homo}
+\end{table}
+
+Как видно нейросетевая модель успешно справляется с использование контекста для расстановки ударений в омографах. Недостатками же представленной модели является очень простая архитектура и отсутствие работы с текстом. Далее мы будем использовать эту модель как базовую для сравнения результатов. 
 
 
 \newpage
