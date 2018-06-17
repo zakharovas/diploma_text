@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.12)  12 JUN 2018 23:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.12)  17 JUN 2018 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1742,6 +1742,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--143
 [2
 
 ] (./Diploma.toc
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+ [][] [][]\T2A/cmr/m/n/14.4 Предсказание ударения в слове при помощи конечного 
+
+ []
+
+
 Underfull \hbox (badness 6188) in paragraph at lines 6--6
  [][] [][]\T2A/cmr/m/n/14.4 Предсказание ударения в слове при помощи символьной
  
@@ -1782,31 +1788,14 @@ Underfull \hbox (badness 2213) in paragraph at lines 173--174
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 175--176
-[]\T2A/cmr/m/n/14.4 Авторы[[]] рассмотрели проблему расстановки ударений, как з
-адачу
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 175--176
-\T2A/cmr/m/n/14.4 ранжирования. В своем исследовании они опирались на более ран
-нюю
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
-[]\T2A/cmr/m/n/14.4 Для
+Underfull \hbox (badness 1755) in paragraph at lines 175--176
+[]\T2A/cmr/m/n/14.4 Авторы [[]] рассмотрели проблему расстановки ударений, как 
+задачу
  []
 
 [5
 
-]
-Underfull \hbox (badness 1968) in paragraph at lines 213--251
-\T2A/cmr/m/n/14.4 языка[[]], разбитый на обучающую и тестовую выборки. Из тесто
-вой
- []
-
-[6]
+] [6]
 Underfull \hbox (badness 2165) in paragraph at lines 255--256
 []\T2A/cmr/m/n/14.4 Недостатками этой статьи является не использование контекст
 а для
@@ -1818,34 +1807,10 @@ Underfull \hbox (badness 2460) in paragraph at lines 255--256
 то его
  []
 
-
-Underfull \hbox (badness 1448) in paragraph at lines 261--262
-[]\T2A/cmr/m/n/14.4 Модель состояла из двух частей: конечного преобразователя[[
-], []],
- []
-
-
-Underfull \hbox (badness 1874) in paragraph at lines 261--262
-\T2A/cmr/m/n/14.4 удалялись варианты которые не подходили по контексту. Если по
-сле
- []
-
-
-Underfull \hbox (badness 2310) in paragraph at lines 261--262
-\T2A/cmr/m/n/14.4 применения этой процедуры оставался один вариант прочтения, т
-о он
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 261--262
-\T2A/cmr/m/n/14.4 и выбирался как финальный, если ни одного, то ударение в слов
-е не
- []
-
 [7]
-Underfull \hbox (badness 3240) in paragraph at lines 263--264
-[]\T2A/cmr/m/n/14.4 Авторами использовался корпус текстов состоящий из 7689 сло
-в с
+Underfull \hbox (badness 2409) in paragraph at lines 263--264
+[]\T2A/cmr/m/n/14.4 Авторами использовался корпус текстов, состоящий из 7689 сл
+ов с
  []
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 267.
@@ -1855,12 +1820,6 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 267.
-
-Underfull \hbox (badness 5302) in paragraph at lines 268--269
-[]\T2A/cmr/bx/n/14.4 safe: \T2A/cmr/m/n/14.4 при нескольких возможных прочтения
-х, ударение в слове
- []
-
 
 Underfull \hbox (badness 6110) in paragraph at lines 269--270
 []\T2A/cmr/bx/n/14.4 randReading: \T2A/cmr/m/n/14.4 при нескольких возможных пр
@@ -1874,9 +1833,9 @@ Underfull \hbox (badness 4060) in paragraph at lines 269--270
  []
 
 [8]
-Underfull \hbox (badness 5490) in paragraph at lines 321--322
-\T2A/cmr/m/n/14.4 модели. При использовании грамматики полнота составила 97.35%
-.
+Underfull \hbox (badness 3000) in paragraph at lines 321--322
+\T2A/cmr/m/n/14.4 являются потолком для соответствующих экспериментов. Совмещен
+ие
  []
 
 
@@ -1892,35 +1851,36 @@ Underfull \hbox (badness 1292) in paragraph at lines 323--324
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 323--324
-\T2A/cmr/m/n/14.4 получается очень низким. Недостатком является также использов
-ание
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 323--324
-\T2A/cmr/m/n/14.4 экспериментов Ran-dRead-ing и Fre-qRead-ing непонятно, так ка
-к несложно
+Underfull \hbox (badness 1137) in paragraph at lines 323--324
+\T2A/cmr/m/n/14.4 в словаре работает очень простой и слабый алгоритм. В этом сл
+учае
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
-\T2A/cmr/m/n/14.4 двусторонняя
+Underfull \hbox (badness 6268) in paragraph at lines 326--327
+\T2A/cmr/m/n/14.4 двусторонняя рекуррентная нейронная сеть на основе LSTM-модул
+ей.
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 326--327
-\T2A/cmr/m/n/14.4 слоя подаются в полносвязные слой с soft-max активацией. На в
-ыходе
+Underfull \hbox (badness 1715) in paragraph at lines 326--327
+\T2A/cmr/m/n/14.4 На вход подавалась матрица размера [длина фразы; число возмож
+ных
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 326--327
-\T2A/cmr/m/n/14.4 вероятностей поставить ударение в конкретной позиции.(предста
-влена на
+Underfull \hbox (badness 1033) in paragraph at lines 326--327
+\T2A/cmr/m/n/14.4 двусторонняя рекуррентная нейронная сеть, сконкатенированные 
+вектора,
  []
 
-<./img/Baseline.png, id=166, 332.24126pt x 422.57875pt>
+
+Underfull \hbox (badness 1062) in paragraph at lines 326--327
+\T2A/cmr/m/n/14.4 max активацией. На выходе получается вектор размера равного д
+лине
+ []
+
+<./img/Baseline.png, id=187, 332.24126pt x 422.57875pt>
 File: ./img/Baseline.png Graphic file (type png)
 
 <use ./img/Baseline.png>
@@ -1935,78 +1895,20 @@ Underfull \hbox (badness 2744) in paragraph at lines 473--474
 [12] [13]
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 2.
 
-LaTeX Warning: Citation `erofeev' on page 14 undefined on input line 480.
+Underfull \hbox (badness 6220) in paragraph at lines 483--484
+[]\T2A/cmr/m/n/14.4 Подпредложение содержавшие символы кроме кириллических букв
 
-Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
-nput line 482.
-
-Underfull \hbox (badness 10000) in paragraph at lines 483--484
-[][]\T2A/cmr/bx/n/14.4 Определение 1. []\T2A/cmr/m/it/14.4 Шизофазия (речевая р
-азорванность) - симптом
  []
 
-Package hyperref Info: bookmark level for unknown notation defaults to 0 on inp
-ut line 488.
-LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 489.
 
-Underfull \hbox (badness 1173) in paragraph at lines 504--505
-[]\T2A/cmr/m/n/14.4 Собсно, на все леммы, теоремы, примеры, замечания и тэдэ мо
-жно
+Underfull \hbox (badness 1286) in paragraph at lines 490--491
+[]\T2A/cmr/m/n/14.4 Обозначим позицию ударения во фразе как $\OML/cmm/m/it/14.4
+ y[]$\T2A/cmr/m/n/14.4 . Позицию ударения,
  []
 
-Package hyperref Info: bookmark level for unknown example defaults to 0 on inpu
-t line 506.
 [14
 
-]
-Package hyperref Info: bookmark level for unknown remark defaults to 0 on input
- line 510.
-
-
-LaTeX Warning: Citation `erofeev' on page 15 undefined on input line 518.
-
-[15]
-\IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 3.
-
-LaTeX Warning: Citation `bek' on page 16 undefined on input line 524.
-
-File: ./img/Baseline.png Graphic file (type png)
-<use ./img/Baseline.png>
-Package pdftex.def Info: ./img/Baseline.png used on input line 528.
-(pdftex.def)             Requested size: 248.96162pt x 316.656pt.
- [16
-
-]
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
-t line 540.
-Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input 
-line 546.
-Package hyperref Info: bookmark level for unknown corollary defaults to 0 on in
-put line 560.
- [17]
-\IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 4.
-[18
-
-] [19]
-Underfull \hbox (badness 3219) in paragraph at lines 622--623
-[]\T2A/cmr/m/n/14.4 Несмотря на то, что можно это объяснить по-разному, хотя и 
-в
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 622--623
-\T2A/cmr/m/n/14.4 того, почему современные госпитали, и притом многие, с опреде
-ленным
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 622--623
-\T2A/cmr/m/n/14.4 заинтересованности в таком деле, как местная анестезия, и с п
-олной
- []
-
-[20
+] [15] [16
 
 ] (./Diploma.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
@@ -2014,45 +1916,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 о языка. Ударение.
  []
 
-[21
+[17
 
-]) [22]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 628.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 628.
+]) [18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 655.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 655.
  (./Diploma.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 628.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 628.
-Package rerunfilecheck Info: File `Diploma.out' has not changed.
-(rerunfilecheck)             Checksum: 52F7DDC2283FBB36736D0B682A2951B1;3839.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 655.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 655.
 
 
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Warning: File `Diploma.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 628.
+Package rerunfilecheck Info: Checksums for `Diploma.out':
+(rerunfilecheck)             Before: 60A1FA38D24D59BD4C3998C8D8E3D161;4631
+(rerunfilecheck)             After:  2A18638CD720BE8B2E5030854AC8DA4C;3488.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 655.
  ) 
 Here is how much of TeX's memory you used:
- 35250 strings out of 492995
- 776666 string characters out of 6132704
- 999478 words of memory out of 5000000
- 38093 multiletter control sequences out of 15000+600000
- 15800 words of font info for 49 fonts, out of 8000000 for 9000
+ 35222 strings out of 492995
+ 776189 string characters out of 6132704
+ 974478 words of memory out of 5000000
+ 38078 multiletter control sequences out of 15000+600000
+ 17425 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,96p,1393b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/tex
-live/2017/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on Diploma.pdf (22 pages, 255265 bytes).
+ 62i,10n,96p,1394b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{chapter*.14} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.3} has been referenced but does not exist, 
+replaced by a fixed one
+
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on Diploma.pdf (18 pages, 263666 bytes).
 PDF statistics:
- 333 PDF objects out of 1000 (max. 8388607)
- 289 compressed objects within 3 object streams
- 89 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 322 PDF objects out of 1000 (max. 8388607)
+ 279 compressed objects within 3 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
