@@ -96,7 +96,13 @@ Maria Ponomareva, Kirill Milintsevich, Ekaterina Chernyak, and Anatoly
 \bibitem{litnevskaya}
 Литневская~Е. И.
 \newblock {\em Русский язык: краткий
-  теоретический курс для школьников..}
+  теоретический курс для школьников.}
 \newblock М.:МГУ, 2006.
+
+\bibitem{bahdanau}
+Dzmitry Bahdanau, KyungHyun Cho, and Yoshua Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em Conference paper at ICLR 2015}, 2014.
 
 \end{thebibliography}
