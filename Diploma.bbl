@@ -111,4 +111,10 @@ Rico Sennrich, Barry Haddow, and Alexandra Birch.
 \newblock {\em Proceedings of the 54th Annual Meeting of the Association for
   Computational Linguistics, 1715–1725, Berlin, Germany}, 2016.
 
+\bibitem{shen}
+Yanyao Shen, Hyokun Yun, Zachary~C. Lipton, Yakov Kronrod, and Animashree
+  Anandkumar.
+\newblock Deep active learning for named entity recognition.
+\newblock {\em Conference paper at ICLR 2018}, 2017.
+
 \end{thebibliography}
