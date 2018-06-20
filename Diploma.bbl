@@ -105,4 +105,10 @@ Dzmitry Bahdanau, KyungHyun Cho, and Yoshua Bengio.
   translate.
 \newblock {\em Conference paper at ICLR 2015}, 2014.
 
+\bibitem{sennrich}
+Rico Sennrich, Barry Haddow, and Alexandra Birch.
+\newblock Neural machine translation of rare words with subword units.
+\newblock {\em Proceedings of the 54th Annual Meeting of the Association for
+  Computational Linguistics, 1715–1725, Berlin, Germany}, 2016.
+
 \end{thebibliography}

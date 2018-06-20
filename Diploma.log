@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.12)  18 JUN 2018 14:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.12)  20 JUN 2018 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,10 +6,19 @@ entering extended mode
 (./Diploma.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/extsizes/extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -22,19 +31,19 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen102
+\bibindent=\dimen103
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
 \aftertitleunit=\skip44
-\ttl@plus=\dimen103
-\ttl@minus=\dimen104
+\ttl@plus=\dimen104
+\ttl@minus=\dimen105
 \ttl@toksa=\toks14
-\titlewidth=\dimen105
-\titlewidthlast=\dimen106
-\titlewidthfirst=\dimen107
+\titlewidth=\dimen106
+\titlewidthlast=\dimen107
+\titlewidthfirst=\dimen108
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/11/05 v2.16a AMS math features
@@ -47,11 +56,11 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
-\ex@=\dimen108
+\ex@=\dimen109
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen109
+\pmbraise@=\dimen110
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
@@ -68,7 +77,7 @@ LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
-\big@size=\dimen110
+\big@size=\dimen111
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count93
@@ -81,12 +90,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \column@=\count98
 \maxfields@=\count99
 \andhelp@=\toks17
-\eqnshift@=\dimen111
-\alignsep@=\dimen112
-\tagshift@=\dimen113
-\tagwidth@=\dimen114
-\totwidth@=\dimen115
-\lineht@=\dimen116
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
 \@envbody=\toks18
 \multlinegap=\skip46
 \multlinetaggap=\skip47
@@ -149,14 +158,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count100
 \Gm@cntv=\count101
 \c@Gm@tempcnt=\count102
-\Gm@bindingoffset=\dimen117
-\Gm@wd@mp=\dimen118
-\Gm@odd@mp=\dimen119
-\Gm@even@mp=\dimen120
-\Gm@layoutwidth=\dimen121
-\Gm@layoutheight=\dimen122
-\Gm@layouthoffset=\dimen123
-\Gm@layoutvoffset=\dimen124
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
 \Gm@dimlist=\toks27
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/cmap/cmap.sty
@@ -167,7 +176,7 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip51
 \multirow@cntb=\count103
 \multirow@dima=\skip52
-\bigstrutjot=\dimen125
+\bigstrutjot=\dimen126
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
@@ -184,8 +193,8 @@ Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count105
 \calc@Bcount=\count106
-\calc@Adimen=\dimen126
-\calc@Bdimen=\dimen127
+\calc@Adimen=\dimen127
+\calc@Bdimen=\dimen128
 \calc@Askip=\skip53
 \calc@Bskip=\skip54
 LaTeX Info: Redefining \setlength on input line 80.
@@ -201,14 +210,14 @@ LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \g_MT_multlinerow_int=\count108
-\l_MT_multwidth_dim=\dimen128
+\l_MT_multwidth_dim=\dimen129
 \origjot=\skip56
-\l_MT_shortvdotswithinadjustabove_dim=\dimen129
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen130
-\l_MT_above_intertext_sep=\dimen131
-\l_MT_below_intertext_sep=\dimen132
-\l_MT_above_shortintertext_sep=\dimen133
-\l_MT_below_shortintertext_sep=\dimen134
+\l_MT_shortvdotswithinadjustabove_dim=\dimen130
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen131
+\l_MT_above_intertext_sep=\dimen132
+\l_MT_below_intertext_sep=\dimen133
+\l_MT_above_shortintertext_sep=\dimen134
+\l_MT_below_shortintertext_sep=\dimen135
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/qtree/qtree.sty
 Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
@@ -241,9 +250,9 @@ File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 \pIIe@GRAPH=\toks30
-\@arclen=\dimen135
-\@arcrad=\dimen136
-\@tempdimd=\dimen137
+\@arclen=\dimen136
+\@arcrad=\dimen137
+\@tempdimd=\dimen138
 )
 \c@treecount=\count110
 \c@branchcount=\count111
@@ -881,7 +890,7 @@ Language: russianb 2017/01/12 1.3i Russian support for the Babel system
 (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2017/05/19 3.10 Babel common definitions
 \babel@savecnt=\count115
-\U@D=\dimen138
+\U@D=\dimen139
 )
 Package babel Info: Making " an active character on input line 111.
 )
@@ -909,8 +918,8 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 )
-\Gin@req@height=\dimen139
-\Gin@req@width=\dimen140
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
@@ -921,20 +930,20 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen141
-\captionmargin@=\dimen142
-\captionwidth=\dimen143
-\caption@tempdima=\dimen144
-\caption@indent=\dimen145
-\caption@parindent=\dimen146
-\caption@hangindent=\dimen147
+\captionmargin=\dimen142
+\captionmargin@=\dimen143
+\captionwidth=\dimen144
+\caption@tempdima=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
 )
 \c@ContinuedFloat=\count116
 Package caption Info: float package is loaded.
 )
 \c@KVtest=\count117
 \sf@farskip=\skip131
-\sf@captopadj=\dimen148
+\sf@captopadj=\dimen149
 \sf@capskip=\skip132
 \sf@nearskip=\skip133
 \c@subfigure=\count118
@@ -955,8 +964,8 @@ Package: pgfplots 2016/08/10 v1.14 Data Visualization (1.14)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
 \pgfutil@everybye=\toks35
-\pgfutil@tempdima=\dimen149
-\pgfutil@tempdimb=\dimen150
+\pgfutil@tempdima=\dimen150
+\pgfutil@tempdimb=\dimen151
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
@@ -981,14 +990,14 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 ode.tex
 \pgfkeys@tmptoks=\toks38
 ))
-\pgf@x=\dimen151
-\pgf@y=\dimen152
-\pgf@xa=\dimen153
-\pgf@ya=\dimen154
-\pgf@xb=\dimen155
-\pgf@yb=\dimen156
-\pgf@xc=\dimen157
-\pgf@yc=\dimen158
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
 \c@pgf@counta=\count124
@@ -1044,7 +1053,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen159
+\pgfmath@dimen=\dimen160
 \pgfmath@count=\count130
 \pgfmath@box=\box55
 \pgfmath@toks=\toks42
@@ -1075,32 +1084,32 @@ erarithmetics.code.tex)))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen160
-\pgf@picmaxx=\dimen161
-\pgf@picminy=\dimen162
-\pgf@picmaxy=\dimen163
-\pgf@pathminx=\dimen164
-\pgf@pathmaxx=\dimen165
-\pgf@pathminy=\dimen166
-\pgf@pathmaxy=\dimen167
-\pgf@xx=\dimen168
-\pgf@xy=\dimen169
-\pgf@yx=\dimen170
-\pgf@yy=\dimen171
-\pgf@zx=\dimen172
-\pgf@zy=\dimen173
+\pgf@picminx=\dimen161
+\pgf@picmaxx=\dimen162
+\pgf@picminy=\dimen163
+\pgf@picmaxy=\dimen164
+\pgf@pathminx=\dimen165
+\pgf@pathmaxx=\dimen166
+\pgf@pathminy=\dimen167
+\pgf@pathmaxy=\dimen168
+\pgf@xx=\dimen169
+\pgf@xy=\dimen170
+\pgf@yx=\dimen171
+\pgf@yy=\dimen172
+\pgf@zx=\dimen173
+\pgf@zy=\dimen174
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen174
-\pgf@path@lasty=\dimen175
+\pgf@path@lastx=\dimen175
+\pgf@path@lasty=\dimen176
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen176
-\pgf@shorten@start@additional=\dimen177
+\pgf@shorten@end@additional=\dimen177
+\pgf@shorten@start@additional=\dimen178
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -1113,14 +1122,14 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen178
+\pgflinewidth=\dimen179
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen179
-\pgf@pt@y=\dimen180
-\pgf@pt@temp=\dimen181
+\pgf@pt@x=\dimen180
+\pgf@pt@y=\dimen181
+\pgf@pt@temp=\dimen182
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1137,12 +1146,12 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen182
+\pgfarrowsep=\dimen183
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen183
+\pgf@max=\dimen184
 \pgf@sys@shading@range@num=\count133
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
@@ -1178,8 +1187,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen184
-\pgf@nodesepend=\dimen185
+\pgf@nodesepstart=\dimen185
+\pgf@nodesepend=\dimen186
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1194,8 +1203,8 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen186
-\pgffor@skip=\dimen187
+\pgffor@iter=\dimen187
+\pgffor@skip=\dimen188
 \pgffor@stack=\toks45
 \pgffor@toks=\toks46
 ))
@@ -1207,14 +1216,14 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count134
-\pgfplotmarksize=\dimen188
+\pgfplotmarksize=\dimen189
 )
-\tikz@lastx=\dimen189
-\tikz@lasty=\dimen190
-\tikz@lastxsaved=\dimen191
-\tikz@lastysaved=\dimen192
-\tikzleveldistance=\dimen193
-\tikzsiblingdistance=\dimen194
+\tikz@lastx=\dimen190
+\tikz@lasty=\dimen191
+\tikz@lastxsaved=\dimen192
+\tikz@lastysaved=\dimen193
+\tikzleveldistance=\dimen194
+\tikzsiblingdistance=\dimen195
 \tikz@figbox=\box61
 \tikz@figbox@bg=\box62
 \tikz@tempbox=\box63
@@ -1242,7 +1251,7 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 \t@pgfplots@toka=\toks47
 \t@pgfplots@tokb=\toks48
 \t@pgfplots@tokc=\toks49
-\pgfplots@tmpa=\dimen195
+\pgfplots@tmpa=\dimen196
 \c@pgfplots@coordindex=\count143
 \c@pgfplots@scanlineindex=\count144
 
@@ -1321,14 +1330,14 @@ x)
 s/tikzlibrarydecorations.code.tex
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
 s.code.tex
-\pgfdecoratedcompleteddistance=\dimen196
-\pgfdecoratedremainingdistance=\dimen197
-\pgfdecoratedinputsegmentcompleteddistance=\dimen198
-\pgfdecoratedinputsegmentremainingdistance=\dimen199
-\pgf@decorate@distancetomove=\dimen256
+\pgfdecoratedcompleteddistance=\dimen197
+\pgfdecoratedremainingdistance=\dimen198
+\pgfdecoratedinputsegmentcompleteddistance=\dimen199
+\pgfdecoratedinputsegmentremainingdistance=\dimen256
+\pgf@decorate@distancetomove=\dimen257
 \pgf@decorate@repeatstate=\count149
-\pgfdecorationsegmentamplitude=\dimen257
-\pgfdecorationsegmentlength=\dimen258
+\pgfdecorationsegmentamplitude=\dimen258
+\pgfdecorationsegmentlength=\dimen259
 )
 \tikz@lib@dec@box=\box65
 )
@@ -1341,12 +1350,12 @@ s/tikzlibrarydecorations.pathreplacing.code.tex
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
 brarydecorations.pathreplacing.code.tex))
 \pgfplots@numplots=\count150
-\pgfplots@xmin@reg=\dimen259
-\pgfplots@xmax@reg=\dimen260
-\pgfplots@ymin@reg=\dimen261
-\pgfplots@ymax@reg=\dimen262
-\pgfplots@zmin@reg=\dimen263
-\pgfplots@zmax@reg=\dimen264
+\pgfplots@xmin@reg=\dimen260
+\pgfplots@xmax@reg=\dimen261
+\pgfplots@ymin@reg=\dimen262
+\pgfplots@ymax@reg=\dimen263
+\pgfplots@zmin@reg=\dimen264
+\pgfplots@zmax@reg=\dimen265
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryplotmarks.code.tex
@@ -1453,7 +1462,7 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen265
+\@linkdim=\dimen266
 \Hy@linkcounter=\count152
 \Hy@pagecounter=\count153
 
@@ -1487,10 +1496,10 @@ Package hyperref Info: Bookmarks ON on input line 4751.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen266
+\XeTeXLinkMargin=\dimen267
 \Fld@menulength=\count156
-\Field@Width=\dimen267
-\Fld@charsize=\dimen268
+\Field@Width=\dimen268
+\Fld@charsize=\dimen269
 Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
@@ -1539,6 +1548,10 @@ e 7476.
 Package cleveref Info: include cross-reference names in hyperlinks on input lin
 e 7493.
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks54
+)
 \c@lemma=\count162
 \c@theorem=\count163
 \c@corollary=\count164
@@ -1563,24 +1576,24 @@ File: block.tss 2016/03/15
 (./Diploma.aux)
 \openout1 = `Diploma.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1619,16 +1632,16 @@ LaTeX Font Info:    ... okay on input line 111.
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count172
-\scratchdimen=\dimen269
+\scratchdimen=\dimen270
 \scratchbox=\box66
 \nofMPsegments=\count173
 \nofMParguments=\count174
-\everyMPshowfont=\toks54
+\everyMPshowfont=\toks55
 \MPscratchCnt=\count175
-\MPscratchDim=\dimen270
+\MPscratchDim=\dimen271
 \MPnumerator=\count176
 \makeMPintoPDFobject=\count177
-\everyMPtoPDFconversion=\toks55
+\everyMPtoPDFconversion=\toks56
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1656,10 +1669,10 @@ ABD: EveryShipout initializing macros
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.14} into 
 your preamble.
- on input line 111.
+ on input line 112.
 
 \AtBeginShipoutBox=\box67
-Package hyperref Info: Link coloring OFF on input line 111.
+Package hyperref Info: Link coloring OFF on input line 112.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1668,71 +1681,71 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count178
 )
-LaTeX Info: Redefining \ref on input line 111.
-LaTeX Info: Redefining \pageref on input line 111.
-LaTeX Info: Redefining \nameref on input line 111.
+LaTeX Info: Redefining \ref on input line 112.
+LaTeX Info: Redefining \pageref on input line 112.
+LaTeX Info: Redefining \nameref on input line 112.
 
 (./Diploma.out) (./Diploma.out)
 \@outlinefile=\write4
 \openout4 = `Diploma.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 137.
+LaTeX Font Info:    Try loading font information for U+msa on input line 138.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 137.
+LaTeX Font Info:    Try loading font information for U+msb on input line 138.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 147--151
+Underfull \hbox (badness 10000) in paragraph at lines 148--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--151
+Underfull \hbox (badness 10000) in paragraph at lines 148--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--151
+Underfull \hbox (badness 10000) in paragraph at lines 148--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--151
+Underfull \hbox (badness 10000) in paragraph at lines 148--152
 
  []
 
@@ -1741,76 +1754,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--151
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2
 
-] (./Diploma.toc
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
- [][] [][]\T2A/cmr/m/n/14.4 Предсказание ударения в слове при помощи конечного 
-
- []
-
-
-Underfull \hbox (badness 6188) in paragraph at lines 6--6
- [][] [][]\T2A/cmr/m/n/14.4 Предсказание ударения в слове при помощи символьной
- 
- []
-
-[3
+] (./Diploma.toc [3
 
 ])
 \tf@toc=\write5
 \openout5 = `Diploma.toc'.
 
- [4]
-Underfull \hbox (badness 1496) in paragraph at lines 169--170
-\T2A/cmr/m/n/14.4 речи. В русском языке оно играет исключительно важную роль, т
-ак
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 169--170
-\T2A/cmr/m/n/14.4 как благодаря ему мы можем различать слова. Одной из сложност
-ей
- []
-
-[5
+ [4] [5
 
 ]
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 1.
 
-Underfull \hbox (badness 2027) in paragraph at lines 179--180
-\T2A/cmr/m/n/14.4 направлениях. На основе лингвистических правил [[], []] и на 
-основе
- []
-
-
-Underfull \hbox (badness 2213) in paragraph at lines 181--182
-[]\T2A/cmr/m/n/14.4 В русском языке сохраняется множество индо-европейских шабл
-онов
- []
-
-
-Underfull \hbox (badness 1755) in paragraph at lines 183--184
-[]\T2A/cmr/m/n/14.4 Авторы [[]] рассмотрели проблему расстановки ударений, как 
-задачу
+Underfull \hbox (badness 3407) in paragraph at lines 185--186
+\T2A/cmr/m/n/12 использовалась линейная модель, вместо SVM, так как она более э
+ффективна с
  []
 
 [6
 
 ] [7]
-Underfull \hbox (badness 2165) in paragraph at lines 240--241
-[]\T2A/cmr/m/n/14.4 Недостатками этой статьи является не использование контекст
-а для
- []
-
-
-Underfull \hbox (badness 2460) in paragraph at lines 240--241
-\T2A/cmr/m/n/14.4 частота употребления слов в текстах языка, использовался прос
-то его
- []
-
-[8]
-Underfull \hbox (badness 2409) in paragraph at lines 248--249
-[]\T2A/cmr/m/n/14.4 Авторами использовался корпус текстов, состоящий из 7689 сл
-ов с
+Underfull \hbox (badness 1024) in paragraph at lines 246--247
+\T2A/cmr/m/n/12 полученного слова генерировал все возможные, корректные по его 
+мнению, позиции
  []
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 252.
@@ -1818,236 +1783,227 @@ LaTeX Font Info:    Try loading font information for OMS+cmr on input line 252.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 252.
 
-Underfull \hbox (badness 6110) in paragraph at lines 254--255
-[]\T2A/cmr/bx/n/14.4 randReading: \T2A/cmr/m/n/14.4 при нескольких возможных пр
-очтениях, случайно
+Underfull \hbox (badness 4805) in paragraph at lines 253--254
+[]\T2A/cmr/bx/n/12 safe: \T2A/cmr/m/n/12 при нескольких возможных вариантах про
+чтения, ударение в слове
  []
 
 
-Underfull \hbox (badness 4060) in paragraph at lines 254--255
-\T2A/cmr/m/n/14.4 выбиралось одно с вероятностью выбора варианта равной частоте
-
+Underfull \hbox (badness 1776) in paragraph at lines 256--257
+[]\T2A/cmr/bx/n/12 freqReading: \T2A/cmr/m/n/12 при нескольких возможных прочте
+ниях, выбирается вариант с
  []
 
-[9]
-Underfull \hbox (badness 3000) in paragraph at lines 291--292
-\T2A/cmr/m/n/14.4 являются потолком для соответствующих экспериментов. Совмещен
-ие
- []
-
-
-Underfull \hbox (badness 1824) in paragraph at lines 293--294
-[]\T2A/cmr/m/n/14.4 Метод, представленный в этой статье, является попыткой улуч
-шить
+[8]
+Underfull \hbox (badness 3364) in paragraph at lines 291--292
+\T2A/cmr/m/n/12 грамматики полнота составила 97.35%. Эти результаты являются по
+толком для
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 293--294
-\T2A/cmr/m/n/14.4 словарный метод, путем разрешения неоднозначностей в омографа
-х при
+Underfull \hbox (badness 1147) in paragraph at lines 291--292
+\T2A/cmr/m/n/12 Fre-qRead-ing позволило получить наибольший процент правильных 
+ударений. Метод
  []
 
-
-Underfull \hbox (badness 1137) in paragraph at lines 293--294
-\T2A/cmr/m/n/14.4 в словаре работает очень простой и слабый алгоритм. В этом сл
-учае
- []
-
-[10]
-Underfull \hbox (badness 6268) in paragraph at lines 297--298
-\T2A/cmr/m/n/14.4 двусторонняя рекуррентная нейронная сеть на основе LSTM-модул
-ей.
- []
-
-
-Underfull \hbox (badness 1715) in paragraph at lines 297--298
-\T2A/cmr/m/n/14.4 На вход подавалась матрица размера [длина фразы; число возмож
-ных
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 297--298
-\T2A/cmr/m/n/14.4 двусторонняя рекуррентная нейронная сеть, сконкатенированные 
-вектора,
- []
-
-
-Underfull \hbox (badness 1062) in paragraph at lines 297--298
-\T2A/cmr/m/n/14.4 max активацией. На выходе получается вектор размера равного д
-лине
- []
-
-<./img/Baseline.png, id=234, 332.24126pt x 422.57875pt>
+[9] <./img/Baseline.png, id=264, 312.16624pt x 412.54124pt>
 File: ./img/Baseline.png Graphic file (type png)
 
 <use ./img/Baseline.png>
 Package pdftex.def Info: ./img/Baseline.png used on input line 301.
-(pdftex.def)             Requested size: 248.96162pt x 316.656pt.
- [11 <./img/Baseline.png>] [12]
-Underfull \hbox (badness 2744) in paragraph at lines 399--400
-\T2A/cmr/m/n/14.4 контекста для расстановки ударений в омографах. Недостатками 
-же
- []
-
-[13] [14]
+(pdftex.def)             Requested size: 248.96162pt x 329.01997pt.
+ [10 <./img/Baseline.png>] [11] [12] [13]
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 2.
-
-Underfull \hbox (badness 6220) in paragraph at lines 410--411
-[]\T2A/cmr/m/n/14.4 Подпредложение содержавшие символы кроме кириллических букв
-
- []
-
-[15
+[14
 
 ]
-Underfull \hbox (badness 1286) in paragraph at lines 459--460
-[]\T2A/cmr/m/n/14.4 Обозначим позицию ударения во фразе как $\OML/cmm/m/it/14.4
- y[]$\T2A/cmr/m/n/14.4 . Позицию ударения,
+Underfull \hbox (badness 1097) in paragraph at lines 469--470
+[]\T2A/cmr/m/n/12 В качестве самой простой нейросетевой архетектуры нами была в
+ыбрана данная
  []
 
-
-Underfull \hbox (badness 1460) in paragraph at lines 468--469
-[]\T2A/cmr/m/n/14.4 К входным данным применяется двустронняя рекурентная нейрон
-ная
- []
-
-
-Underfull \hbox (badness 1107) in paragraph at lines 468--469
-\T2A/cmr/m/n/14.4 применяется один и тот же полносвязный слой с soft-max актива
-цией с
- []
-
-[16] <./img/Local.png, id=295, 352.31625pt x 382.42876pt>
+<./img/Local.png, id=315, 302.12875pt x 382.42876pt>
 File: ./img/Local.png Graphic file (type png)
+ <use ./img/Local.png>
+Package pdftex.def Info: ./img/Local.png used on input line 475.
+(pdftex.def)             Requested size: 248.96162pt x 315.12831pt.
 
-<use ./img/Local.png>
-Package pdftex.def Info: ./img/Local.png used on input line 472.
-(pdftex.def)             Requested size: 248.96162pt x 270.24252pt.
-
-Underfull \hbox (badness 1122) in paragraph at lines 482--483
-[]\T2A/cmr/bx/n/14.4 Входные данные: \T2A/cmr/m/n/14.4 На вход модели подается 
-слово, в котором мы
+[15]
+LaTeX Font Info:    Try loading font information for T2A+PTMono-TLF on input li
+ne 491.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/paratype/T2APTMono-TLF.fd
+File: T2APTMono-TLF.fd 2014/02/02 Font definitions for T2A/PTMono-TLF.
+)
+[16 <./img/Local.png>] [17]
+Underfull \hbox (badness 2671) in paragraph at lines 565--565
+[]\T2A/cmr/m/n/12 Таблица 2.6 ^^U- |Результаты локальной символьной модели и ло
+кальной модели по
  []
 
-[17 <./img/Local.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
-[]\T2A/cmr/m/n/14.4 Результаты этого эксперимента и сравнение с базовой моделью
 
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 521--522
-[]\T2A/cmr/m/n/14.4 Для исследования влияния длины контекста на качество расста
-новки
+Underfull \hbox (badness 3323) in paragraph at lines 593--594
+[]\T2A/cmr/m/n/12 Увеличившийся контекст не привел к повышению результата, при 
+этом из-за
  []
 
 [18]
-Underfull \hbox (badness 1194) in paragraph at lines 560--561
-\T2A/cmr/m/n/14.4 не может. Из-за этого увеличивалась сложность модели, и колич
-ество
+Underfull \hbox (badness 2326) in paragraph at lines 600--601
+[]\T2A/cmr/m/n/12 Деление на слоги слов в русском языке однозначно установлено 
+[[]], поэтому
  []
 
 [19]
-Underfull \hbox (badness 2865) in paragraph at lines 568--569
-[]\T2A/cmr/bx/n/14.4 Входные данные: \T2A/cmr/m/n/14.4 Формат входных данных ан
-алогичен формату,
- []
-
-[20]
-Underfull \hbox (badness 1748) in paragraph at lines 606--608
-[]\T2A/cmr/m/n/14.4 Архитектура этой модели совпадает с архитектурой базовой мо
-дели.
- []
-
 File: ./img/Baseline.png Graphic file (type png)
-<use ./img/Baseline.png>
-Package pdftex.def Info: ./img/Baseline.png used on input line 611.
-(pdftex.def)             Requested size: 248.96162pt x 316.656pt.
- [21] [22]
-Underfull \hbox (badness 5832) in paragraph at lines 663--665
-\T2A/cmr/m/n/14.4 модулей предсказать вектор текущего состояния ($\OML/cmm/m/it
-/14.4 a[]$\T2A/cmr/m/n/14.4 ), который будет
+ <use ./img/Baseline.png>
+Package pdftex.def Info: ./img/Baseline.png used on input line 664.
+(pdftex.def)             Requested size: 248.96162pt x 329.01997pt.
+ [20]
+Underfull \hbox (badness 1048) in paragraph at lines 679--679
+[]\T2A/cmr/m/n/12 Таблица 2.9 ^^U- |Результаты локальной и глобальной слоговой 
+модлелей с глобальной
  []
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 673--674
-[]\T2A/cmr/m/n/14.4 В представленных выше уравнениях $\OML/cmm/m/it/14.4 W[]$ \
-T2A/cmr/m/n/14.4 - матрицы линейных
+[21] [22]
+Underfull \hbox (badness 1629) in paragraph at lines 716--718
+[]\T2A/cmr/m/n/12 Целью attention-механизма является предсказание вектора текущ
+его сотояния($\OML/cmm/m/it/12 a[]$\T2A/cmr/m/n/12 ),
  []
 
-<./img/AttentionMap.png, id=354, 431.6125pt x 463.7325pt>
+
+Underfull \hbox (badness 3098) in paragraph at lines 716--718
+\T2A/cmr/m/n/12 и затем покоординатным нелинейным преобразованием. В данном слу
+чае -- это
+ []
+
+<./img/AttentionMap.png, id=385, 431.6125pt x 463.7325pt>
 File: ./img/AttentionMap.png Graphic file (type png)
 
 <use ./img/AttentionMap.png>
-Package pdftex.def Info: ./img/AttentionMap.png used on input line 679.
+Package pdftex.def Info: ./img/AttentionMap.png used on input line 732.
 (pdftex.def)             Requested size: 248.96162pt x 267.48615pt.
- [24]
-File: ./img/Local.png Graphic file (type png)
- <use ./img/Local.png>
-Package pdftex.def Info: ./img/Local.png used on input line 694.
-(pdftex.def)             Requested size: 248.96162pt x 270.24252pt.
- [25 <./img/AttentionMap.png>]
-Underfull \hbox (badness 2452) in paragraph at lines 701--702
-\T2A/cmr/m/n/14.4 объединениием локального и глобального подхода: мы используем
- все
+ [23]
+<./img/Attention.png, id=397, 342.27875pt x 512.91624pt>
+File: ./img/Attention.png Graphic file (type png)
+
+<use ./img/Attention.png>
+Package pdftex.def Info: ./img/Attention.png used on input line 748.
+(pdftex.def)             Requested size: 248.96162pt x 373.08742pt.
+ [24 <./img/AttentionMap.png>]
+Underfull \hbox (badness 2951) in paragraph at lines 755--756
+\T2A/cmr/m/n/12 локального и глобального подхода: мы используем все промежуточн
+ые состояния
  []
 
-[26]
+[25 <./img/Attention.png>]
+File: ./img/Attention.png Graphic file (type png)
+ <use ./img/Attention.png>
+Package pdftex.def Info: ./img/Attention.png used on input line 800.
+(pdftex.def)             Requested size: 248.96162pt x 373.08742pt.
+ [26] [27]
+Underfull \hbox (badness 1668) in paragraph at lines 820--821
+\T2A/cmr/m/n/12 алфавита был выбран 1000, так как при таком размере многие част
+и слогов еще
+ []
+
+[28]
+Overfull \hbox (2.83034pt too wide) in paragraph at lines 878--884
+ [] 
+ []
+
+[29] <./img/All_scores.png, id=444, 1011.78pt x 505.89pt>
+File: ./img/All_scores.png Graphic file (type png)
+
+<use ./img/All_scores.png>
+Package pdftex.def Info: ./img/All_scores.png used on input line 920.
+(pdftex.def)             Requested size: 398.3401pt x 199.17207pt.
+
+<./img/Homo_scores.png, id=445, 1011.78pt x 505.89pt>
+File: ./img/Homo_scores.png Graphic file (type png)
+
+<use ./img/Homo_scores.png>
+Package pdftex.def Info: ./img/Homo_scores.png used on input line 927.
+(pdftex.def)             Requested size: 398.3401pt x 199.17207pt.
+ [30]
+<./img/Homo_perc.png, id=454, 1011.78pt x 505.89pt>
+File: ./img/Homo_perc.png Graphic file (type png)
+ <use ./img/Homo_perc.png>
+Package pdftex.def Info: ./img/Homo_perc.png used on input line 934.
+(pdftex.def)             Requested size: 398.3401pt x 199.17207pt.
+
+[31 <./img/All_scores.png> <./img/Homo_scores.png>] [32 <./img/Homo_perc.png>]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 855.
+(hyperref)                be the same. Added a new anchor on input line 968.
 
-[27
 
-] (./Diploma.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 4--8
-[]\T2A/cmr/m/n/14.4 Еськова Н.А.  \T2A/cmr/m/it/14.4 Словарь трудностей русског
-о языка. Ударение.
+Underfull \hbox (badness 5667) in paragraph at lines 974--975
+\T2A/cmr/m/n/12 универсальной модели или построение специализированной может об
+еспечить
  []
 
-[28
 
-]) [29]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 866.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 866.
+Underfull \hbox (badness 1117) in paragraph at lines 974--975
+\T2A/cmr/m/n/12 повышение качества. Также можно добавить модели на вход дополни
+тельную
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 976--977
+[]\T2A/cmr/bx/n/12 Работа с именованными сущностями. \T2A/cmr/m/n/12 Наша модел
+ь плохо справляется с
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 976--977
+\T2A/cmr/m/n/12 расстановкой ударений в именованных сущностях, из которых можно
+ отдельно
+ []
+
+[33
+
+] (./Diploma.bbl [34
+
+]) [35]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1128.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1128.
  (./Diploma.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 866.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 866.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1128.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1128.
+
 Package rerunfilecheck Info: File `Diploma.out' has not changed.
-(rerunfilecheck)             Checksum: 23125BB72554FCB744B120E46E15B99D;6451.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 866.
+(rerunfilecheck)             Checksum: D734F9AA69ACAF5F096BDC27A2BF5D09;8422.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1128.
  ) 
 Here is how much of TeX's memory you used:
- 35278 strings out of 492995
- 777182 string characters out of 6132704
- 974496 words of memory out of 5000000
- 38105 multiletter control sequences out of 15000+600000
- 15800 words of font info for 49 fonts, out of 8000000 for 9000
+ 35395 strings out of 492995
+ 779432 string characters out of 6132704
+ 973772 words of memory out of 5000000
+ 38181 multiletter control sequences out of 15000+600000
+ 13309 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,96p,1394b,732s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/
-2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on Diploma.pdf (29 pages, 365952 bytes).
+ 62i,10n,96p,1394b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/paratype/ptmono_t2a.enc}{
+/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</
+usr/local/texlive/2017/texmf-dist/fonts/type1/paratype/ptmono/PTM55F.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017
+/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2017/t
+exmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Diploma.pdf (35 pages, 477238 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 400 compressed objects within 4 object streams
- 104 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 566 PDF objects out of 1000 (max. 8388607)
+ 492 compressed objects within 5 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 340 words of extra memory for PDF output out of 10000 (max. 10000000)
 
