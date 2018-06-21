@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.12)  20 JUN 2018 13:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.12)  21 JUN 2018 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1765,7 +1765,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--152
 ]
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 1.
 
-Underfull \hbox (badness 3407) in paragraph at lines 185--186
+Underfull \hbox (badness 3407) in paragraph at lines 186--187
 \T2A/cmr/m/n/12 использовалась линейна€ модель, вместо SVM, так как она более э
 ффективна с
  []
@@ -1773,38 +1773,38 @@ Underfull \hbox (badness 3407) in paragraph at lines 185--186
 [6
 
 ] [7]
-Underfull \hbox (badness 1024) in paragraph at lines 246--247
+Underfull \hbox (badness 1024) in paragraph at lines 247--248
 \T2A/cmr/m/n/12 полученного слова генерировал все возможные, корректные по его 
 мнению, позиции
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 252.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 253.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 252.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 253.
 
-Underfull \hbox (badness 4805) in paragraph at lines 253--254
+Underfull \hbox (badness 4805) in paragraph at lines 254--255
 []\T2A/cmr/bx/n/12 safe: \T2A/cmr/m/n/12 при нескольких возможных вариантах про
 чтени€, ударение в слове
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 256--257
+Underfull \hbox (badness 1776) in paragraph at lines 257--258
 []\T2A/cmr/bx/n/12 freqReading: \T2A/cmr/m/n/12 при нескольких возможных прочте
 ни€х, выбираетс€ вариант с
  []
 
 [8]
-Underfull \hbox (badness 3364) in paragraph at lines 291--292
+Underfull \hbox (badness 3364) in paragraph at lines 292--293
 \T2A/cmr/m/n/12 грамматики полнота составила 97.35%. Ёти результаты €вл€ютс€ по
 толком дл€
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 291--292
+Underfull \hbox (badness 1147) in paragraph at lines 292--293
 \T2A/cmr/m/n/12 Fre-qRead-ing позволило получить наибольший процент правильных 
 ударений. ћетод
  []
@@ -1813,14 +1813,14 @@ Underfull \hbox (badness 1147) in paragraph at lines 291--292
 File: ./img/Baseline.png Graphic file (type png)
 
 <use ./img/Baseline.png>
-Package pdftex.def Info: ./img/Baseline.png used on input line 301.
+Package pdftex.def Info: ./img/Baseline.png used on input line 302.
 (pdftex.def)             Requested size: 248.96162pt x 329.01997pt.
  [10 <./img/Baseline.png>] [11]
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 2.
 [12
 
 ]
-Underfull \hbox (badness 1097) in paragraph at lines 403--404
+Underfull \hbox (badness 1097) in paragraph at lines 404--405
 []\T2A/cmr/m/n/12 ¬ качестве самой простой нейросетевой архетектуры нами была в
 ыбрана данна€
  []
@@ -1828,29 +1828,29 @@ Underfull \hbox (badness 1097) in paragraph at lines 403--404
 <./img/Local.png, id=303, 302.12875pt x 382.42876pt>
 File: ./img/Local.png Graphic file (type png)
  <use ./img/Local.png>
-Package pdftex.def Info: ./img/Local.png used on input line 409.
+Package pdftex.def Info: ./img/Local.png used on input line 410.
 (pdftex.def)             Requested size: 248.96162pt x 315.12831pt.
 
 [13]
 LaTeX Font Info:    Try loading font information for T2A+PTMono-TLF on input li
-ne 425.
+ne 426.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/paratype/T2APTMono-TLF.fd
 File: T2APTMono-TLF.fd 2014/02/02 Font definitions for T2A/PTMono-TLF.
 )
 [14 <./img/Local.png>] [15]
-Underfull \hbox (badness 2671) in paragraph at lines 499--499
+Underfull \hbox (badness 2671) in paragraph at lines 500--500
 []\T2A/cmr/m/n/12 “аблица 2.6 ^^U- |–езультаты локальной символьной модели и ло
 кальной модели по
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 527--528
+Underfull \hbox (badness 3323) in paragraph at lines 528--529
 []\T2A/cmr/m/n/12 ”величившийс€ контекст не привел к повышению результата, при 
 этом из-за
  []
 
 [16]
-Underfull \hbox (badness 2326) in paragraph at lines 534--535
+Underfull \hbox (badness 2326) in paragraph at lines 535--536
 []\T2A/cmr/m/n/12 ƒеление на слоги слов в русском €зыке однозначно установлено 
 [[]], поэтому
  []
@@ -1858,22 +1858,22 @@ Underfull \hbox (badness 2326) in paragraph at lines 534--535
 [17]
 File: ./img/Baseline.png Graphic file (type png)
  <use ./img/Baseline.png>
-Package pdftex.def Info: ./img/Baseline.png used on input line 598.
+Package pdftex.def Info: ./img/Baseline.png used on input line 599.
 (pdftex.def)             Requested size: 248.96162pt x 329.01997pt.
  [18]
-Underfull \hbox (badness 1048) in paragraph at lines 613--613
+Underfull \hbox (badness 1048) in paragraph at lines 614--614
 []\T2A/cmr/m/n/12 “аблица 2.9 ^^U- |–езультаты локальной и глобальной слоговой 
 модлелей с глобальной
  []
 
 [19] [20]
-Underfull \hbox (badness 1629) in paragraph at lines 650--652
+Underfull \hbox (badness 1629) in paragraph at lines 651--653
 []\T2A/cmr/m/n/12 ÷елью attention-механизма €вл€етс€ предсказание вектора текущ
 его сото€ни€($\OML/cmm/m/it/12 a[]$\T2A/cmr/m/n/12 ),
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 650--652
+Underfull \hbox (badness 3098) in paragraph at lines 651--653
 \T2A/cmr/m/n/12 и затем покоординатным нелинейным преобразованием. ¬ данном слу
 чае -- это
  []
@@ -1882,17 +1882,17 @@ Underfull \hbox (badness 3098) in paragraph at lines 650--652
 File: ./img/AttentionMap.png Graphic file (type png)
 
 <use ./img/AttentionMap.png>
-Package pdftex.def Info: ./img/AttentionMap.png used on input line 666.
+Package pdftex.def Info: ./img/AttentionMap.png used on input line 667.
 (pdftex.def)             Requested size: 248.96162pt x 267.48615pt.
  [21]
 <./img/Attention.png, id=386, 342.27875pt x 512.91624pt>
 File: ./img/Attention.png Graphic file (type png)
 
 <use ./img/Attention.png>
-Package pdftex.def Info: ./img/Attention.png used on input line 682.
+Package pdftex.def Info: ./img/Attention.png used on input line 683.
 (pdftex.def)             Requested size: 248.96162pt x 373.08742pt.
  [22 <./img/AttentionMap.png>]
-Underfull \hbox (badness 2951) in paragraph at lines 689--690
+Underfull \hbox (badness 2951) in paragraph at lines 690--691
 \T2A/cmr/m/n/12 локального и глобального подхода: мы используем все промежуточн
 ые состо€ни€
  []
@@ -1901,22 +1901,22 @@ Underfull \hbox (badness 2951) in paragraph at lines 689--690
 File: ./img/Emb.png Graphic file (type png)
 
 <use ./img/Emb.png>
-Package pdftex.def Info: ./img/Emb.png used on input line 734.
+Package pdftex.def Info: ./img/Emb.png used on input line 735.
 (pdftex.def)             Requested size: 248.96162pt x 222.79663pt.
  [24]
-Underfull \hbox (badness 1668) in paragraph at lines 754--755
+Underfull \hbox (badness 1668) in paragraph at lines 755--756
 \T2A/cmr/m/n/12 алфавита был выбран 1000, так как при таком размере многие част
 и слогов еще
  []
 
 [25 <./img/Emb.png>]
-Underfull \hbox (badness 1067) in paragraph at lines 756--757
+Underfull \hbox (badness 1067) in paragraph at lines 757--758
 \T2A/cmr/m/n/12 повышени€ результатов по сравнению с моделью со слогами. ѕолучи
 ли ухудшение
  []
 
 [26]
-Overfull \hbox (2.83034pt too wide) in paragraph at lines 812--818
+Overfull \hbox (2.83034pt too wide) in paragraph at lines 813--819
  [] 
  []
 
@@ -1924,41 +1924,41 @@ Overfull \hbox (2.83034pt too wide) in paragraph at lines 812--818
 File: ./img/All_scores.png Graphic file (type png)
 
 <use ./img/All_scores.png>
-Package pdftex.def Info: ./img/All_scores.png used on input line 854.
+Package pdftex.def Info: ./img/All_scores.png used on input line 855.
 (pdftex.def)             Requested size: 398.3401pt x 199.17207pt.
 
 <./img/Homo_scores.png, id=437, 1011.78pt x 505.89pt>
 File: ./img/Homo_scores.png Graphic file (type png)
 
 <use ./img/Homo_scores.png>
-Package pdftex.def Info: ./img/Homo_scores.png used on input line 861.
+Package pdftex.def Info: ./img/Homo_scores.png used on input line 862.
 (pdftex.def)             Requested size: 398.3401pt x 199.17207pt.
  [28]
 <./img/Homo_perc.png, id=447, 1011.78pt x 505.89pt>
 File: ./img/Homo_perc.png Graphic file (type png)
  <use ./img/Homo_perc.png>
-Package pdftex.def Info: ./img/Homo_perc.png used on input line 868.
+Package pdftex.def Info: ./img/Homo_perc.png used on input line 869.
 (pdftex.def)             Requested size: 398.3401pt x 199.17207pt.
 
 [29 <./img/All_scores.png> <./img/Homo_scores.png>] [30 <./img/Homo_perc.png>]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 902.
+(hyperref)                be the same. Added a new anchor on input line 903.
 
 
-Underfull \hbox (badness 7558) in paragraph at lines 916--917
+Underfull \hbox (badness 7558) in paragraph at lines 917--918
 \T2A/cmr/m/n/12 универсальной модели или построение специализированной может об
 еспечить
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 916--917
+Underfull \hbox (badness 1509) in paragraph at lines 917--918
 \T2A/cmr/m/n/12 повышение качества. “акже можно добавить модели на вход дополни
 тельную
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 918--919
+Underfull \hbox (badness 1715) in paragraph at lines 919--920
 []\T2A/cmr/bx/n/12 –абота с именованными сущност€ми. \T2A/cmr/m/n/12 Ќаша модел
 ь плохо справл€етс€ с
  []
@@ -1968,15 +1968,14 @@ Underfull \hbox (badness 1715) in paragraph at lines 918--919
 ] (./Diploma.bbl [32
 
 ]) [33]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1070.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1070.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 926.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 926.
  (./Diploma.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1070.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1070.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 926.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 926.
 Package rerunfilecheck Info: File `Diploma.out' has not changed.
 (rerunfilecheck)             Checksum: 70FA3A34A1B3091781593FC3055D51D3;8418.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1070.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 926.
  ) 
 Here is how much of TeX's memory you used:
  35400 strings out of 492995
@@ -2001,7 +2000,7 @@ e/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/
 17/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017
 /texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2017/t
 exmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Diploma.pdf (33 pages, 1572501 bytes).
+Output written on Diploma.pdf (33 pages, 1569998 bytes).
 PDF statistics:
  563 PDF objects out of 1000 (max. 8388607)
  489 compressed objects within 5 object streams

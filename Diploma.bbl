@@ -2,9 +2,9 @@
 
 \bibitem{eskina}
 Еськова Н.А.
-\newblock {\em Словарь трудностей русского языка.
-  Ударение. Грамматические формы.}
-\newblock М.: Языки славянской культуры, 2014.
+\newblock Словарь трудностей русского языка.
+  Ударение. Грамматические формы.
+\newblock {\em М.: Языки славянской культуры}, 2014.
 
 \bibitem{church}
 Kenneth Church.
@@ -19,8 +19,8 @@ Briony Williams.
 
 \bibitem{halle}
 Morris Halle.
-\newblock {\em On stress and accent in IndoEuropean.}
-\newblock Language, 1997.
+\newblock On stress and accent in indoeuropean.
+\newblock {\em Language}, 1997.
 
 \bibitem{hall}
 Keith Hall and Richard Sproat.
@@ -43,9 +43,9 @@ Michael Collins and Terry Koo.
 
 \bibitem{zaliz}
 Зализняк~А. А.
-\newblock {\em Грамматический словарь русского
-  языка.}
-\newblock М.: Русский язык, 1977.
+\newblock Грамматический словарь русского
+  языка.
+\newblock {\em М.: Русский язык}, 1977.
 
 \bibitem{reynolds}
 Robert Reynolds and Francis Tyers.
@@ -63,8 +63,8 @@ Kimmo Koskenniemi.
 
 \bibitem{karttunen}
 Kenneth~R. Beesley and Lauri Karttunen.
-\newblock {\em Finite State Morphology: Xerox tools and techniques.}
-\newblock CSLI Publications, Stanford, 2003.
+\newblock Finite state morphology: Xerox tools and techniques.
+\newblock {\em CSLI Publications, Stanford}, 2003.
 
 \bibitem{karlsson}
 Fred Karlsson.
@@ -74,9 +74,9 @@ Fred Karlsson.
 
 \bibitem{lavitskaya}
 Yulia Lavitskaya and Baris Kabak.
-\newblock {\em Phonological default in the lexical stress system of Russian:
-  Evidence from noun declension.}
-\newblock Lingua, 2014.
+\newblock Phonological default in the lexical stress system of russian:
+  Evidence from noun declension.
+\newblock {\em Lingua}, 2014.
 
 \bibitem{ponomareva}
 Maria Ponomareva, Kirill Milintsevich, Ekaterina Chernyak, and Anatoly
@@ -87,17 +87,16 @@ Maria Ponomareva, Kirill Milintsevich, Ekaterina Chernyak, and Anatoly
 
 \bibitem{grishina}
 Гришина~Е. А.
-\newblock {\em Корпус «История русского
-  ударения» // Национальный корпус русского
-  языка: 2006—2008. Новые результаты и
-  перспективы.}
-\newblock СПб.: Нестор-История, 2009.
+\newblock Корпус «История русского ударения» //
+  Национальный корпус русского языка:
+  2006—2008. Новые результаты и перспективы.
+\newblock {\em СПб.: Нестор-История}, 2009.
 
 \bibitem{litnevskaya}
 Литневская~Е. И.
-\newblock {\em Русский язык: краткий
-  теоретический курс для школьников.}
-\newblock М.:МГУ, 2006.
+\newblock Русский язык: краткий теоретический
+  курс для школьников.
+\newblock {\em М.:МГУ}, 2006.
 
 \bibitem{bahdanau}
 Dzmitry Bahdanau, KyungHyun Cho, and Yoshua Bengio.
